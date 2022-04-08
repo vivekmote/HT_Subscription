@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4258" started-at="2020-08-16T12:01:24 IST" finished-at="2020-08-16T12:01:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4258" started-at="2020-08-16T12:01:24 IST" finished-at="2020-08-16T12:01:28 IST">
+      <class name="PutData.put">
+        <test-method status="PASS" signature="modifydata()[pri:0, instance:PutData.put@72b6cbcc]" name="modifydata" duration-ms="4189" started-at="2020-08-16T12:01:24 IST" finished-at="2020-08-16T12:01:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifydata -->
+      </class> <!-- PutData.put -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
